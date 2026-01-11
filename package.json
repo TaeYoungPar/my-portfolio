@@ -9,11 +9,14 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "framer-motion": "^12.25.0",
     "next": "16.1.1",
     "react": "19.2.3",
     "react-dom": "19.2.3",
+    "react-hook-form": "^7.71.0",
     "react-icons": "^5.5.0",
+    "react-modal": "^3.16.3",
     "swiper": "^12.0.3",
     "tailwind-scrollbar": "^4.0.2"
   },
@@ -22,6 +25,7 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@types/react-modal": "^3.16.3",
     "eslint": "^9",
     "eslint-config-next": "16.1.1",
     "tailwindcss": "^4",

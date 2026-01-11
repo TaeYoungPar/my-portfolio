@@ -1,7 +1,7 @@
 "use client";
 import { motion } from "framer-motion";
 import { fadeIn } from "@/variants";
-import React, { useRef, useState } from "react";
+import { useRef, useState } from "react";
 import { BsArrowRight } from "react-icons/bs";
 import { useForm, SubmitHandler } from "react-hook-form";
 import emailjs from "@emailjs/browser";
