@@ -14,7 +14,7 @@ const workSlides = {
       images: [
         {
           title: "쇼츠메이커",
-          path: "/images/thumb.PNG",
+          path: "/images/thumb.png",
         },
         {
           title: "FITFOLIO",
